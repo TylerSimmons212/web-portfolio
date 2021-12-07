@@ -4,7 +4,7 @@ function Hero () {
         <div className="hero">
             <div className="hero-text">
                 <h1>Tyler Simmons</h1>
-                <h2>A <span className="purple">UI Web Developer</span></h2>
+                <h2><span className="purple">UI Web Developer</span></h2>
                 <h3>Specialized in E-Commerce</h3>
             </div>
             <div className="hero-svg">
