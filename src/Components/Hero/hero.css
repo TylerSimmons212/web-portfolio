@@ -45,3 +45,52 @@
 .hero-svg svg{
     width: 100%;
 }
+@media(max-width: 750px){
+    .hero{
+        flex-direction: column-reverse;
+        height: auto;
+    }
+    .hero div{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .hero-text{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        padding-left: 50px;
+    }
+    .hero-text h1{
+        font-size: 45px;
+        margin: 0;
+        padding: 0;
+        color: #514C9A;
+        text-align: left;
+    }
+    .hero-text h2{
+        font-size: 60px;
+        margin: 0;
+        padding: 0;
+        color: #3F3D56;
+        text-align: left;
+    }
+    .hero-text h3{
+        font-size: 45px;
+        margin: 0;
+        padding: 0;
+        color: #3F3D56;
+        text-align: left;
+    }
+    .purple{
+        color: #6B63FF;
+    }
+    .hero-svg{
+        padding-right: 0px;
+    }
+    .hero-svg svg{
+        width: 100%;
+        margin-top: -120px;
+        margin-bottom: -200px;
+    }
+}

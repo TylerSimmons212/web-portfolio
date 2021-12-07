@@ -1,5 +1,5 @@
 import './skills.css'
-import skillsImg from '../../images/control-panel.svg'
+import liquid from '../../images/liquid.png'
 
 
 
@@ -36,6 +36,7 @@ function Skills () {
                                 <p>JQuery</p>
                             </li>
                             <li className="skills-li">
+                                <img src={liquid}/>
                                 <p>Liquid</p>
                             </li>
                             <li className="skills-li">

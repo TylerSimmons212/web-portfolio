@@ -88,3 +88,100 @@
 #contact-form span.visible {
     display: block;
 }
+@media(max-width:750px){
+    .contact{
+        margin-top: -100px;
+    }
+    .contact h1{
+        background-color: #514C9A;
+        margin: 0;
+        padding: 0;
+        margin-top: -5px;
+        padding-top: 40px;
+        margin-bottom: -60px;
+        color: #fff;
+    }
+    .contact-body{
+        margin-top: -10px;
+        padding: 40px;
+        background-color: #514C9A;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .social{
+        width: 90%;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .social svg{
+        width: 80%;
+        margin: -200px auto;
+        margin-top: -240px;
+    }
+    .linkedin{
+        margin-right: 10px;
+    }
+    .social a{
+        border: solid #ff6863 1.5px;
+        color: #514C9A;
+        border-radius: 50px;
+        position: relative;
+        font-size: 16px;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        margin-top: -30px;
+        padding: 10px 30px;
+        justify-content: center;
+        background: #D2D0FF;
+    }
+    
+    #contact-form {
+        background: #D2D0FF;
+        border-radius: 20px;
+        color: #fff;
+        font-family: sans-serif;
+        padding: 20px;
+        box-shadow: 0 11px 15px -7px rgba(0, 0, 0, .2), 0 24px 38px 3px rgba(0, 0, 0, .14), 0 9px 46px 8px rgba(0, 0, 0, .12);
+        width: 90%;
+    }
+    #contact-form h2{
+        color: #514C9A;
+    }
+    #contact-form input, #contact-form textarea {
+        width: 100%;
+        border: 0;
+        padding: 10px 20px;
+        box-sizing: border-box;
+        margin-bottom: 15px;
+        background-color: #EBEAFF;
+        border-radius: 50px;
+    }
+    #contact-form textarea {
+        border-radius: 20px;
+        height: 100px;
+        resize: vertical;
+    }
+    #contact-form div {
+        padding: 10px;
+        border: 0;
+        cursor: pointer;
+        font-weight: bold;
+        color: #fff;
+        font-size: 18px;
+        margin-bottom: 15px;
+        text-transform: uppercase;
+    }
+    #contact-form span {
+        display: none;
+        text-align: center;
+    }
+    #contact-form span.visible {
+        display: block;
+    }   
+}
