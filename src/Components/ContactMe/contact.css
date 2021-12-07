@@ -43,9 +43,8 @@
     padding: 10px 30px;
     justify-content: center;
     background: #D2D0FF;
-
-    ;
 }
+
 #contact-form {
     background: #D2D0FF;
     border-radius: 20px;
@@ -73,7 +72,6 @@
     resize: vertical;
 }
 #contact-form div {
-    width: 100%;
     padding: 10px;
     border: 0;
     cursor: pointer;
