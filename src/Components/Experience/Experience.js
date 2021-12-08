@@ -30,7 +30,6 @@ function Experience () {
           <a class="hexLink" href="https://www.loopfamily.com" target="_blank">
             <img src={loop} alt="" />
             <h1>Loop Digital Frame</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -39,7 +38,6 @@ function Experience () {
           <a class="hexLink" href="https://www.endurosportofficial.com"  target="_blank">
             <img src={enduro} alt="" />
             <h1>EnduroSport</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -48,7 +46,6 @@ function Experience () {
           <a class="hexLink" href="https://pinecreekroofing.com"  target="_blank">
             <img src={buns} alt="" />
             <h1>Buns Bakery</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -57,7 +54,6 @@ function Experience () {
           <a class="hexLink" href="https://pinecreekroofing.com"  target="_blank">
             <img src={pinecreek} alt="" />
             <h1>Pinecreek Roofing</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -66,7 +62,6 @@ function Experience () {
           <a class="hexLink" href="https://www.localpopco.com"  target="_blank">
             <img src={localpopco} alt="" />
             <h1>Local Pop Co</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -75,7 +70,6 @@ function Experience () {
           <a class="hexLink" href="https://www.playerspass.com"  target="_blank">
             <img src={playerpass} alt="" />
             <h1>Player's Pass</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -84,7 +78,6 @@ function Experience () {
           <a class="hexLink" href="https://yourmodv.com"  target="_blank">
             <img src={yourmodv} alt="" />
             <h1>Your Modv</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -93,7 +86,6 @@ function Experience () {
           <a class="hexLink" href="https://www.transparentlabs.com"  target="_blank">
             <img src={transparentlabs} alt="" />
             <h1>Transparent Labs</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -102,7 +94,6 @@ function Experience () {
           <a class="hexLink" href="https://www.lumariswhite.com"  target="_blank">
             <img src={lumaris} alt="" />
             <h1>Lumaris Teeth White</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -111,7 +102,6 @@ function Experience () {
           <a class="hexLink" href="https://www.prosoria.com/?gclid=CjwKCAiAwKyNBhBfEiwA_mrUMtkP7sVIQsav-7k6dkcRrBnyQLHyz2cfSVFOAxUgNeKJVpyN7vNN1BoCOhQQAvD_BwE"  target="_blank">
             <img src={nuvothera} alt="" />
             <h1>Nuvothera</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -120,7 +110,6 @@ function Experience () {
           <a class="hexLink" href="https://mpire.media"  target="_blank">
             <img src={mpiremedia} alt="" />
             <h1>Mpire Media</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -129,7 +118,6 @@ function Experience () {
           <a class="hexLink" href="https://www.conffianz.com"  target="_blank">
             <img src={conffianz} alt="" />
             <h1>Conffianz</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -138,7 +126,6 @@ function Experience () {
           <a class="hexLink" href="https://bgbpainting.com"  target="_blank">
             <img src={bgbpainting} alt="" />
             <h1>BGB Painting</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
@@ -147,7 +134,6 @@ function Experience () {
           <a class="hexLink" href="https://www.jackedfactory.com"  target="_blank">
             <img src={jackedfactory} alt="" />
             <h1>Jacked Factory</h1>
-            <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
